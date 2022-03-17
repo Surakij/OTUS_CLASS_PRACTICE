@@ -1,0 +1,23 @@
+{
+  "name": "otus_class_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surakij/OTUS_CLASS_PRACTICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surakij/OTUS_CLASS_PRACTICE/issues"
+  },
+  "homepage": "https://github.com/Surakij/OTUS_CLASS_PRACTICE#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
